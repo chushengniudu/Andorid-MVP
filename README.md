@@ -1,6 +1,6 @@
 # Andorid-MVP
 MVP模式正在熟悉当中，如有错误请谅解。
-<div align=center>
+<div align=right>
 <img src="https://github.com/chushengniudu/Andorid-MVP/blob/master/device-2016-12-22-171804.png" width="560" height="900"/>
 </div>
 # MVP模式通常包含的4要素：
