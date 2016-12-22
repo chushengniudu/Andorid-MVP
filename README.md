@@ -1,7 +1,7 @@
 # Andorid-MVP
 MVP模式正在熟悉当中，如有错误请谅解。
 <div align=left>
-<img src="https://github.com/chushengniudu/Andorid-MVP/blob/master/device-2016-12-22-171804.png" width="300" height="600"/>
+<img src="https://github.com/chushengniudu/Andorid-MVP/blob/master/device-2016-12-22-171804.png" width="480" height="860"/>
 </div>
 # MVP模式通常包含的4要素：
      (1)View:负责绘制UI元素、与用户进行交互(在Android中体现为Activity);
